@@ -6,7 +6,7 @@ This is the single source of truth. Every product, every pipeline, every revenue
 
 ---
 
-## LIVE RIGHT NOW (2026-09-29)
+## LIVE RIGHT NOW (2026-09-29 — Updated)
 
 | Layer | Status | Link |
 |-------|--------|------|
@@ -15,6 +15,7 @@ This is the single source of truth. Every product, every pipeline, every revenue
 | **Product IDs** | `prod_qNMoKr1Srdrt1` / `plan_TvDV8LaQDYFou` | Whop account `biz_cPjd1bRZ6pAly6` (Limitless supply) |
 | **Buffer template** | Updated with checkout CTA | `Limitless / PlanLifeGrateful Short — Stress Language` |
 | **Buffer idea** | Launch copy ready for YT + TikTok | `Launch — Ummah Anthems + Grateful Life OS` |
+| **grateful-life-plan** | **10/10 COMPLETE** | 30-day calendar + language bank + 6 UGC scripts + quick-start |
 
 **Checkout URL (use this in every caption):**  
 https://whop.com/checkout/plan_TvDV8LaQDYFou
@@ -47,7 +48,7 @@ Traffic → Whop $47 pack → GitHub delivery (ummah-anthems-pack)
 | Product | Repo | Status | Revenue Path | Next Action |
 |---------|------|--------|--------------|-------------|
 | **Ummah Anthems + Grateful Life OS** | [pack](https://github.com/planlifegrateful-lang/ummah-anthems-pack) | **WHOP LIVE $47** | [Checkout](https://whop.com/checkout/plan_TvDV8LaQDYFou) | Drop video → Buffer queue |
-| **Grateful Life Plan** | [grateful-life-plan](https://github.com/planlifegrateful-lang/grateful-life-plan) | Core OS live | Bundled in Whop pack | Expand 30-day calendar |
+| **Grateful Life Plan** | [grateful-life-plan](https://github.com/planlifegrateful-lang/grateful-life-plan) | **10/10 COMPLETE** | Bundled in Whop pack | Content production live |
 | **Suno Video Factory** | [suno-video-factory](https://github.com/planlifegrateful-lang/suno-video-factory) | Active | Feeds Buffer | Wire webhook on next video |
 | **AI Creator OS** | [ai-creator-os](https://github.com/planlifegrateful-lang/ai-creator-os) | Ready | Upsell / second Whop SKU | Add as $97 bundle |
 | **UGC Business OS** | [Ugc-business-os](https://github.com/planlifegrateful-lang/Ugc-business-os) | SQLite ops | Approval gate | Export → Buffer |
@@ -55,6 +56,7 @@ Traffic → Whop $47 pack → GitHub delivery (ummah-anthems-pack)
 | **Ebook Cover 10x** | [ebook-whole-cover-10x](https://github.com/planlifegrateful-lang/ebook-whole-cover-10x) | React | Tool/service | Integrate later |
 | **Planlife Agent0** | [Planlife-agent0-openmanus](https://github.com/planlifegrateful-lang/Planlife-agent0-openmanus) | Video pipeline | Unify with factory | |
 | **Otto Server** | [otto-server-wow](https://github.com/planlifegrateful-lang/otto-server-wow) | Dashboard | Ops | |
+| **Content Factory** | [content-factory](https://github.com/planlifegrateful-lang/content-factory) | GitHub Actions ready | Script + vertical video | Run write-script workflow |
 
 ---
 
@@ -68,10 +70,23 @@ Traffic → Whop $47 pack → GitHub delivery (ummah-anthems-pack)
 
 ---
 
+## What Just Shipped (this update)
+
+`grateful-life-plan` now contains:
+- Full 30-day calendar with daily actions + journal prompts
+- Complete language bank (old → new sentences + situation triggers)
+- 6 ready-to-film UGC scripts with CapCut notes
+- 10-minute quick-start install guide
+- Updated core README linking everything
+
+Content production is unblocked. Film any of the 6 scripts → CapCut → Buffer → YouTube Charles (or reconnect TikTok).
+
+---
+
 ## Access
 
 - GitHub: live (`planlifegrateful-lang`)
 - Buffer: live (org `My Organization`) — YouTube Charles ON, TikTok OFF
 - Whop: live (`biz_cPjd1bRZ6pAly6`)
 
-Alhamdulillah. The cash register and the queue are both live. Next video ships the loop.
+Alhamdulillah. The cash register is live. The OS is complete. Next video ships the loop.
